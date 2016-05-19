@@ -12,5 +12,5 @@ Installation
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("jjchern/saipeAPI")
+devtools::install_github("jjchern/saipe")
 ```

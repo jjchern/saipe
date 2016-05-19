@@ -22,6 +22,6 @@ See the [`saipeAPI` package](https://github.com/jjchern/saipeAPI) for details.
 
 ```R
 # install.packages("devtools")
-devtools::install_github("jjchern/saipeAPI")
+devtools::install_github("jjchern/saipe")
 ```
 
