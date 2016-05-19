@@ -8,5 +8,8 @@
 \usage{
 saipe_state
 }
+\description{
+Use \code{saipe::saipe_state}.
+}
 \keyword{datasets}
 

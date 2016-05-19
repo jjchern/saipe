@@ -8,5 +8,8 @@
 \usage{
 saipe_county
 }
+\description{
+Use \code{saipe::saipe_county}.
+}
 \keyword{datasets}
 
