@@ -12,6 +12,8 @@ knitr::opts_chunk$set(
 )
 ```
 
+[![Travis-CI Build Status](https://travis-ci.org/jjchern/saipe.svg?branch=master)](https://travis-ci.org/jjchern/saipe)
+
 # About
 
 See the [`saipeAPI` package](https://github.com/jjchern/saipeAPI) for details.
