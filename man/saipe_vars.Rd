@@ -12,4 +12,3 @@ saipe_vars
 Use \code{saipe::saipe_vars}.
 }
 \keyword{datasets}
-

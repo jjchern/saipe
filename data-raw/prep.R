@@ -22,4 +22,3 @@ devtools::use_data(saipe_state, overwrite = TRUE)
 
 saipe_county = saipeAPI::saipe_county(year = saipeAPI::saipe_years, var = saipe_vars$Name)
 devtools::use_data(saipe_county, overwrite = TRUE)
-

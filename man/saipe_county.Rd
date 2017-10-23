@@ -4,7 +4,7 @@
 \name{saipe_county}
 \alias{saipe_county}
 \title{County-Level Poverty Count and Rate Estimates}
-\format{An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 69117 rows and 21 columns.}
+\format{An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 72259 rows and 21 columns.}
 \usage{
 saipe_county
 }
@@ -12,4 +12,3 @@ saipe_county
 Use \code{saipe::saipe_county}.
 }
 \keyword{datasets}
-

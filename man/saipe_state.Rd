@@ -4,7 +4,7 @@
 \name{saipe_state}
 \alias{saipe_state}
 \title{State-Level Poverty Count and Rate Estimates}
-\format{An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 1122 rows and 20 columns.}
+\format{An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 1173 rows and 20 columns.}
 \usage{
 saipe_state
 }
@@ -12,4 +12,3 @@ saipe_state
 Use \code{saipe::saipe_state}.
 }
 \keyword{datasets}
-

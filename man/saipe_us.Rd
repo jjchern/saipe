@@ -4,7 +4,7 @@
 \name{saipe_us}
 \alias{saipe_us}
 \title{US Poverty Count and Rate Estimates}
-\format{An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 22 rows and 20 columns.}
+\format{An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 23 rows and 20 columns.}
 \usage{
 saipe_us
 }
@@ -12,4 +12,3 @@ saipe_us
 Use \code{saipe::saipe_us}.
 }
 \keyword{datasets}
-
