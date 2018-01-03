@@ -1,6 +1,6 @@
 
 # install.packages("devtools")
-# devtools::install_github("jjchern/saipeAPI")
+# devtools::install_github("jjchern/saipeAPI@v0.0.2")
 library(dplyr, warn.conflicts = FALSE)
 
 # SAIPE variable labels ---------------------------------------------------

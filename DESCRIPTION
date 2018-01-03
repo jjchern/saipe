@@ -1,6 +1,6 @@
 Package: saipe
 Title: US Poverty Estimates
-Version: 0.0.1
+Version: 0.0.2
 Authors@R: person("JJ", "Chen", , "jiajia.chern@gmail.com", c("aut", "cre"))
 Description: An R data package contains poverty estimates at various geographic levels.
 Depends:
