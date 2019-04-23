@@ -21,7 +21,19 @@ See the [`saipeAPI` package](https://github.com/jjchern/saipeAPI) for details.
 # Installation
 
 ```R
-# install.packages("devtools")
-devtools::install_github("jjchern/saipe@v0.0.2")
+# install.packages("remotes")
+remotes::install_github("jjchern/saipe@v0.0.3")
+```
+
+# Usage
+
+```{r}
+library(tibble)
+
+saipe::saipe_us
+
+saipe::saipe_state
+
+saipe::saipe_county
 ```
 
