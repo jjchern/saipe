@@ -4,7 +4,28 @@
 \name{saipe_us}
 \alias{saipe_us}
 \title{US Poverty Count and Rate Estimates}
-\format{An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 24 rows and 20 columns.}
+\format{A data frame with the following variables:
+\itemize{
+\item \code{county}: County FIPS Code
+\item \code{countyfip}: State+County FIPS Code
+\item \code{name}: State or County Name
+\item \code{med_inc}: Median Household Income Estimate
+\item \code{pov_cnt_0_17}: Ages 0-17 in Poverty, Count Estimate
+\item \code{pov_cnt_0_4}: Ages 0-4 in Poverty, Count Estimate
+\item \code{pov_cnt_fam_5_17}: Ages 5-17 in Families in Poverty, Count Estimate
+\item \code{pov_cnt_all}: All ages in Poverty, Count Estimate
+\item \code{pov_rate_0_17}: Ages 0-17 in Poverty, Rate Estimate
+\item \code{pov_rate_0_4}: Ages 0-4 in Poverty, Rate Estimate
+\item \code{pov_rate_all}: All ages in Poverty, Rate Estimate
+\item \code{pov_univ_0_17}: Ages 0-17 in Poverty Universe
+\item \code{pov_univ_0_4}: Ages 0-4 in Poverty Universe
+\item \code{pov_univ_fam_5_17}: Ages 5-17r in Poverty Universe
+\item \code{pov_univ_all}: All Ages in Poverty Universe
+\item \code{abbr}: Two-letter State Postal abbreviation
+\item \code{statefip}: FIPS State Code
+\item \code{sum_lvl}: Summary Level
+\item \code{year}: time
+}}
 \usage{
 saipe_us
 }
